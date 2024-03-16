@@ -1,0 +1,51 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_BFTaskMultipleErrorsUserInfoKey",
+            "_BoltsFrameworkVersionString",
+            "_BoltsVersionString",
+            "_kBFMultipleErrorsError",
+            "_BoltsVersionNumber",
+            "_BFTaskErrorDomain"
+          ],
+          "objc_class": [
+            "BFTaskCompletionSource",
+            "PodsDummy_Bolts",
+            "BFCancellationTokenRegistration",
+            "BFTask",
+            "BFExecutor",
+            "BFCancellationToken",
+            "BFCancellationTokenSource"
+          ]
+        },
+        "text": {
+          "global": [
+            "_warnBlockingOperationOnMainThread"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/Bolts.framework/Bolts"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "17.4",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

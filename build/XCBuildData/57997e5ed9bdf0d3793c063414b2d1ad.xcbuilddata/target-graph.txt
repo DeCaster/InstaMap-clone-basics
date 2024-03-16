@@ -1,0 +1,14 @@
+Target dependency graph (5 targets)
+Target 'FoursquareClone' in project 'FoursquareClone'
+➜ Implicit dependency on target 'Pods-FoursquareClone' in project 'Pods' via file 'Pods_FoursquareClone.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'Bolts' in project 'Pods' via options '-framework Bolts' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'Parse' in project 'Pods' via options '-framework Parse' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-FoursquareClone' in project 'Pods'
+➜ Explicit dependency on target 'Bolts' in project 'Pods'
+➜ Explicit dependency on target 'Parse' in project 'Pods'
+Target 'Parse' in project 'Pods'
+➜ Explicit dependency on target 'Bolts' in project 'Pods'
+➜ Explicit dependency on target 'Parse-Parse' in project 'Pods'
+Target 'Parse-Parse' in project 'Pods'
+➜ Implicit dependency on target 'Bolts' in project 'Pods' via options '-framework Bolts' in build setting 'OTHER_LDFLAGS'
+Target 'Bolts' in project 'Pods' (no dependencies)

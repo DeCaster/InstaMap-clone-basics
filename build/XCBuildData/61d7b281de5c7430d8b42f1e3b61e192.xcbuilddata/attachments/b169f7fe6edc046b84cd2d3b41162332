@@ -1,0 +1,98 @@
+{
+  "" : {
+    "diagnostics" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/FoursquareClone-master.dia",
+    "emit-module-dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/FoursquareClone-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/FoursquareClone-master-emit-module.dia",
+    "swift-dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/FoursquareClone-master.swiftdeps"
+  },
+  "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/murad/Desktop/InstaMap/FoursquareClone/AddPlaceVC.swift" : {
+    "const-values" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/AddPlaceVC.swiftconstvalues",
+    "dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/AddPlaceVC.d",
+    "diagnostics" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/AddPlaceVC.dia",
+    "index-unit-output-path" : "/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/AddPlaceVC.o",
+    "llvm-bc" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/AddPlaceVC.bc",
+    "object" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/AddPlaceVC.o",
+    "swift-dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/AddPlaceVC.swiftdeps",
+    "swiftmodule" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/AddPlaceVC~partial.swiftmodule"
+  },
+  "/Users/murad/Desktop/InstaMap/FoursquareClone/AppDelegate.swift" : {
+    "const-values" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/murad/Desktop/InstaMap/FoursquareClone/DetailsVC.swift" : {
+    "const-values" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/DetailsVC.swiftconstvalues",
+    "dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/DetailsVC.d",
+    "diagnostics" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/DetailsVC.dia",
+    "index-unit-output-path" : "/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/DetailsVC.o",
+    "llvm-bc" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/DetailsVC.bc",
+    "object" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/DetailsVC.o",
+    "swift-dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/DetailsVC.swiftdeps",
+    "swiftmodule" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/DetailsVC~partial.swiftmodule"
+  },
+  "/Users/murad/Desktop/InstaMap/FoursquareClone/MapVC.swift" : {
+    "const-values" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/MapVC.swiftconstvalues",
+    "dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/MapVC.d",
+    "diagnostics" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/MapVC.dia",
+    "index-unit-output-path" : "/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/MapVC.o",
+    "llvm-bc" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/MapVC.bc",
+    "object" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/MapVC.o",
+    "swift-dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/MapVC.swiftdeps",
+    "swiftmodule" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/MapVC~partial.swiftmodule"
+  },
+  "/Users/murad/Desktop/InstaMap/FoursquareClone/PlaceModel.swift" : {
+    "const-values" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/PlaceModel.swiftconstvalues",
+    "dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/PlaceModel.d",
+    "diagnostics" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/PlaceModel.dia",
+    "index-unit-output-path" : "/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/PlaceModel.o",
+    "llvm-bc" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/PlaceModel.bc",
+    "object" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/PlaceModel.o",
+    "swift-dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/PlaceModel.swiftdeps",
+    "swiftmodule" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/PlaceModel~partial.swiftmodule"
+  },
+  "/Users/murad/Desktop/InstaMap/FoursquareClone/PlacesVC.swift" : {
+    "const-values" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/PlacesVC.swiftconstvalues",
+    "dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/PlacesVC.d",
+    "diagnostics" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/PlacesVC.dia",
+    "index-unit-output-path" : "/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/PlacesVC.o",
+    "llvm-bc" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/PlacesVC.bc",
+    "object" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/PlacesVC.o",
+    "swift-dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/PlacesVC.swiftdeps",
+    "swiftmodule" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/PlacesVC~partial.swiftmodule"
+  },
+  "/Users/murad/Desktop/InstaMap/FoursquareClone/SceneDelegate.swift" : {
+    "const-values" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/murad/Desktop/InstaMap/FoursquareClone/SignUpVC.swift" : {
+    "const-values" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/SignUpVC.swiftconstvalues",
+    "dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/SignUpVC.d",
+    "diagnostics" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/SignUpVC.dia",
+    "index-unit-output-path" : "/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/SignUpVC.o",
+    "llvm-bc" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/SignUpVC.bc",
+    "object" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/SignUpVC.o",
+    "swift-dependencies" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/SignUpVC.swiftdeps",
+    "swiftmodule" : "/Users/murad/Desktop/InstaMap/build/FoursquareClone.build/Debug-iphonesimulator/FoursquareClone.build/Objects-normal/arm64/SignUpVC~partial.swiftmodule"
+  }
+}
